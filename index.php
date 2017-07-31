@@ -1,7 +1,7 @@
 <?php
 
-
-echo phpinfo();
+echo "Ветка master";
+//echo phpinfo();
 
 exit;
 
