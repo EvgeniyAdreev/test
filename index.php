@@ -1,6 +1,9 @@
 <?php
 
-echo "Ветка test";
+echo "<h2>Ветка test</h2>" . "<br>";
+for($i = 0; $i < 10; $i++){
+	echo "Hello<br>";
+}
 
 
 //echo phpinfo();
