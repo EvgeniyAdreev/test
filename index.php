@@ -1,7 +1,6 @@
 <?php
 
-echo "Ветка master" . "<br>";
-//echo phpinfo();
+echo phpinfo();
 
 exit;
 
