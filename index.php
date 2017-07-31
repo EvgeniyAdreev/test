@@ -1,6 +1,9 @@
 <?php
 
-echo phpinfo();
+echo "Ветка test";
+
+
+//echo phpinfo();
 
 exit;
 
