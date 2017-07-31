@@ -1,7 +1,8 @@
 <?php
 
 echo "Ветка master" . "<br>";
-echo "Ветка iss53";
+echo "Ветка iss53" . "<br>";
+echo "Ветка test";
 //echo phpinfo();
 
 exit;
