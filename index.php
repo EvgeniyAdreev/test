@@ -2,7 +2,7 @@
 
 echo "<h2>Ветка master</h2>";
 for($i = 0; $i < 10; $i++){
-	echo "Hello <br>";
+	echo "Hello world <br>";
 }
 
 //echo phpinfo();
