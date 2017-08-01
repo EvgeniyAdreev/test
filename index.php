@@ -1,8 +1,8 @@
 <?php
 
 echo "<h2>Ветка test</h2>";
-for($i = 0; $i < 30; $i++){
-	echo "Hello <br>";
+for($i = 0; $i < 40; $i++){
+	echo "Hello world <br>";
 }
 
 //echo phpinfo();
