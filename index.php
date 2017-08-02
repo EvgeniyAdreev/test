@@ -1,7 +1,7 @@
 <?php
 
 echo "<h2>Ветка MASTER</h2>";
-for($i = 0; $i < 20; $i++){
+for($i = 0; $i < 30; $i++){
 	echo "Hello John Dow <br>";
 }
 
